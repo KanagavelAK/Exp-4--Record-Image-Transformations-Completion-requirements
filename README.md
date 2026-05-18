@@ -72,10 +72,9 @@ Read the input image in color mode.
 ##  Program
 
 ### Developed By:
-**Name:** ____________________________  
+### Name: Kanagavel A K 
 
-### Register No:
-____________________________  
+### Register No: 212223230096
 
 ---
 
